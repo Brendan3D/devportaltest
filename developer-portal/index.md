@@ -1,5 +1,5 @@
 ---
-title: Training program
+title: Dev Portal test
 ---
 
 # Training program
